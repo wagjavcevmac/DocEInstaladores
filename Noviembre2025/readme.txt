@@ -1,1 +1,2 @@
-
+Para crear una carpeta en GitHub, navega a tu repositorio, haz clic en "Add file" (Agregar archivo) y luego en "Create new file" (Crear nuevo archivo). En el campo para el nombre del archivo, escribe el nombre de la carpeta seguido de una barra diagonal (/) y luego cualquier nombre de archivo para confirmarla (por ejemplo, nombredelacarpeta/). Por último, haz clic en "Commit new file" (Confirmar nuevo archivo). 
+Para borrar una carpeta en GitHub, puedes usar la interfaz web de GitHub o la línea de comandos. En la interfaz web, navega a la carpeta, haz clic en el menú desplegable "..." y selecciona "Eliminar directorio". Con la línea de comandos, usa git rm -r nombre_de_la_carpeta seguido de git commit y git push para enviar los cambios al repositori
